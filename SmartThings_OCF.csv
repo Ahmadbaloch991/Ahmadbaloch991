@@ -1,0 +1,25 @@
+CORE OCF Data
+Retention: Please note, we need 24 hours for data aggregation, so the downloaded file will not contain data that occurred in the system within the last 24 hours
+
+User
+"COUNTRY CODE","CREATE TIME","LANGUAGE CODE","LOGIN ID","NICKNAME","NOTIFICATION DENY LIST","NOTIFICATION STATE","PHONE NUMBER","UPDATE TIME"
+"PAK","2020-06-04","","ahmadbaloch991@gmail.com","","No device found","Receive","","2020-06-04"
+
+Device
+"CREATE TIME","DEVICE ID","DEVICE NAME","DEVICE TYPE","MANUFACTURER NAME","MODEL NUMBER","NICKNAME","PLATFORM OPERATING SYSTEM","PLATFORM VERSION","UPDATE TIME"
+"2020-06-04","6687f78f-818f-3580-bc14-ac3946ae9ecb","","samsungconnect","Samsung Electronics","SM-A105F","","Android","10","2020-06-04"
+
+Group
+"CREATE TIME","GROUP NAME","OWNER ID","TYPE","UPDATE TIME"
+"2020-06-04","My home","ahmadbaloch991@gmail.com","Default location","2020-06-04"
+"2020-06-04","Living room","ahmadbaloch991@gmail.com","Public location","2020-06-04"
+
+Groups
+"CREATE TIME","GROUP","SUB-GROUP","UPDATE TIME"
+"2020-06-04","My home","Living room","2020-06-04"
+
+Group Invitations
+
+Group Locations
+
+SHP Devices

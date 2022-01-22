@@ -1,0 +1,10 @@
+﻿userInfo
+Item,userName,email,countryCode,firstLoginTime,createTime,modifyTime
+Description,User Name,Account ID,Country Code,First Login Time,Creation Date,Last Modification Date
+Value 1,Ahmad Baloch,ahmadbaloch991@gmail.com,PAK,04 June 2020 21:18:46,04 June 2020 21:18:46,16 January 2022 12:00:49
+
+userPartnerInfo
+Item,partnerName,createTime,modifyTime
+Description,Partner Name,Creation Date,Last Modification Date
+Value 1,OCF_NEW_PRD,04 June 2020 21:18:46,04 June 2020 21:18:46
+
